@@ -1,4 +1,6 @@
-# sw-people
+# Star Wars People
+
+![Home](https://user-images.githubusercontent.com/7195642/145553662-9359176a-8605-40a6-856c-22464d0bfae8.png)
 
 ## Project setup
 ```
